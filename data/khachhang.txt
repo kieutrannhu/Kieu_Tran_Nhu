@@ -1,0 +1,4 @@
+01	Kieu Tran Nhu	0336198787	kieu@mail.com	ha noi	ct01
+02	Nguyen Ngoc Ngan	0123456789	ngan@mail.com	ha tinh	ct02
+03	Nguyen Xuan Bac	0899999999	bac@mail.com	ha noi	ct03
+04	Pham Quang Nui	0986666666	nui@mail.com	hai phong	ct04
